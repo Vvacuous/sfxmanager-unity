@@ -1,5 +1,7 @@
 # 🎧 SFXManager for Unity
 
+*Used in our game [Under the Disco Lights – Wishlist now on Steam](https://store.steampowered.com/app/3700950/Under_the_Disco_Lights)*
+
 A modular and expandable **Sound FX Manager** script designed for Unity 2021+ using **AudioMixerGroups** and optional **audio pooling** for optimized runtime performance.
 
 ## ✨ Features
